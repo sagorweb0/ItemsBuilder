@@ -1,3 +1,3 @@
-streamlit==1.32.0
-pyrebase4==4.7.1
+streamlit
 UnityPy==1.25.3
+Pillow==10.4.0
